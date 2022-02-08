@@ -1,6 +1,6 @@
-#Abour website
+#About website
 
-A modern UI/Ux website create using react.js and CSS. Design inspriation is from AR Shakir's Designs.
+A modern UI/UX website create using React.js and CSS. Design inspriation is from AR Shakir's Designs. Its completely resposive for all screen size's
 
 #Technology Used
 
